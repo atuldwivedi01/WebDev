@@ -1,0 +1,108 @@
+header{
+	background-color:#000000; 
+	overflow:auto; 
+	margin:0;
+
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.container{
+		width:960px;
+		margin: 0 auto;
+		background: fixed;
+}
+.container2{
+		vertical-align: top;
+		width:100%;
+		height:500px;
+		background-image:url("Batman3.jpg");
+		background-size: 100% 500px;
+		background-repeat: no-repeat;
+		padding-top:1px; 
+		/*border: .1px solid #000000;*/
+}
+div div{
+			width:960px;
+			margin: 200px auto;
+}
+.headingp{
+	font-size: 50px;
+	color: yellow;
+	padding-bottom: 8px;
+	font-family: sans-serif;
+}
+p.psub{
+color:yellow;
+font-family: sans-serif;
+font-size: 16px;
+
+
+}
+
+nav ul{
+	list-style: none;
+	padding:0;
+	margin:0;
+
+}
+.logo{
+	float:left;
+}
+nav ul li{
+	float: right;
+}
+nav ul li a{
+	color:#fff000;
+	text-decoration:none;
+	padding:20px;
+	display:block;
+}
+nav ul li a:hover{
+		border-bottom:5px solid #fff000;
+		opacity:0.7;
+}
+.container4{
+	background-color: #eeeeee;
+	padding-top: 1px;
+}
+h3{
+			width:960px;
+			margin:0 auto;
+			padding-top: 15px;
+			font-family: sans-serif;
+			padding-bottom: 1px;
+			font-family: sans-serif;
+}
+.container6{
+	width: 960px;
+	margin:	20px auto;
+	padding: 20px 20px 20px 20px;
+	background-color: white;
+	border: 1px solid red;
+	font-family: sans-serif;
+}
+footer{
+	background-color:#000000; 
+	overflow:auto; 
+	margin:0;
+	padding-top: 1px;
+}
+footer p{
+	color:#ffffff;
+	font-size:14px;
+}
+body{
+	background: #eeeeee;
+}
+#firstp{
+	border: 1px dotted red;
+}
+#lastp{
+	border: 1px dashed red;
+}
+.pub{
+ font-weight:600;color:#c2c5cc;
+}
