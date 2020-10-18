@@ -1,3 +1,2 @@
 # WebDev
-My  Web Development mini Projects
-version 2
+My  Web Development mini Projects 2.0
